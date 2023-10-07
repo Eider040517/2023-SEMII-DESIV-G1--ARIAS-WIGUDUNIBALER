@@ -1,0 +1,30 @@
+*{ 
+  margin: 0;
+  padding: 0;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+body{
+  background-color: #808080;
+}
+
+.piramide{
+  gap:10em;
+}
+
+.row{
+  display: flex;
+  width: 100%;
+  justify-content: center;
+  align-items: center;
+  gap: 1em;
+}
+.cubo{
+  width: 50px;
+  height: 50px;
+  background-color: #F2F8F9;
+}
+
+.path{
+  background-color: #F7EBD9;
+}
