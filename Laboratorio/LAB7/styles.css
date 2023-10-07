@@ -10,6 +10,7 @@ body{
 
 .piramide{
   gap:10em;
+  transform: rotate(180);
 }
 
 .row{
@@ -18,6 +19,7 @@ body{
   justify-content: center;
   align-items: center;
   gap: 1em;
+  padding: 1em;
 }
 .cubo{
   width: 50px;
